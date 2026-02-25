@@ -18,7 +18,7 @@
 
 ## ✨ About Kiro
 
-**Kiro £lfbot** is the **first Discord £lfbot in France** — designed to give you a better experience in discord
+**Kiro £lfbot** is the **first Discord £lfbot in France** — designed by [xql.dev](https://github.com/KirobotDev) to give you a better experience in discord
 
 ---
 
