@@ -1,16 +1,27 @@
-## Hi there 👋
+[g9by11](https://github.com/g9by11) / readme.md
 
-<!--
-**g9by11/g9by11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![41580111cc4f9cbe669031ae689506ea.gif](https://i.postimg.cc/Y2bv736W/41580111cc4f9cbe669031ae689506ea.gif)](https://postimg.cc/hhQDbV3D)
 
-Here are some ideas to get you started:
+・Just a guy learning to code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+・Currently studying in France
+
+・actualy in a relationship with the perfect girl
+
+---
+
+## Discord
+
+<a href="https://discord.com/users/1173508336063356948">
+  <img src="https://lanyard.cnrad.dev/api/1173508336063356948?theme=dark&bg=1f1f1f&borderRadius=12px" alt="Discord presence" />
+</a>
+
+---
+
+## Commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g9by11/kirobotdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g9by11/kirobotdev/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/g9by11/kirobotdev/output/github-contribution-grid-snake.svg">
+</picture>
