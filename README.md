@@ -1,5 +1,3 @@
-[g9by11](https://github.com/g9by11) / readme.md
-
 [![41580111cc4f9cbe669031ae689506ea.gif](https://i.postimg.cc/Y2bv736W/41580111cc4f9cbe669031ae689506ea.gif)](https://postimg.cc/hhQDbV3D)
 
 ・Just a guy learning to code
