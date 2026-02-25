@@ -8,6 +8,30 @@
 
 ---
 
+## Kiro
+
+> **The first Discord bot in France**
+
+[
+[
+
+![Discord](https://img.shields.io/badge/Join%20the%20Server-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+](https://discord.gg/kirosb)
+[
+
+![Shop](https://img.shields.io/badge/Buy%20Now-grey?style=flat-square&logo=shopify&logoColor=white)
+
+](https://kirosb.mysellauth.com/)
+
+---
+
+## ✨ About Kiro
+
+**Kiro £lfbot** is the **first Discord bot in France** — designed to take your server to the next level.
+
+---
+
 ## Discord
 
 <a href="https://discord.com/users/1173508336063356948">
