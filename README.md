@@ -10,15 +10,15 @@
 
 ## Kiro
 
-<a href="https://discord.gg/kirosb" style="text-decoration: none;"><span style="background-color: grey; border-radius: 10px; padding: 5px 10px; color: white; display: inline-block;">Join the Server</span></a>
+[![Join the Server](https://img.shields.io/badge/Join%20the%20Server-grey?style=flat-square&logo=discord&logoColor=white&borderRadius=10px)](https://discord.gg/kirosb)
 
-<a href="https://kirosb.mysellauth.com/" style="text-decoration: none;"><span style="background-color: grey; border-radius: 10px; padding: 5px 10px; color: white; display: inline-block;">Buy Now</span></a>
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-grey?style=flat-square&logo=shopify&logoColor=white&borderRadius=10px)](https://kirosb.mysellauth.com/)
 
 ---
 
 ## ✨ About Kiro
 
-**Kiro £lfbot** is the **first Discord £lfbot in France** - Designed to give you a better experience
+**Kiro £lfbot** is the **first Discord £lfbot in France** — designed to give you a better experience in discord
 
 ---
 
