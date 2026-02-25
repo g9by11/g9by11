@@ -10,25 +10,15 @@
 
 ## Kiro
 
-> **The first Discord bot in France**
+<a href="https://discord.gg/kirosb" style="text-decoration: none;"><span style="background-color: grey; border-radius: 10px; padding: 5px 10px; color: white; display: inline-block;">Join the Server</span></a>
 
-[
-[
-
-![Discord](https://img.shields.io/badge/Join%20the%20Server-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-](https://discord.gg/kirosb)
-[
-
-![Shop](https://img.shields.io/badge/Buy%20Now-grey?style=flat-square&logo=shopify&logoColor=white)
-
-](https://kirosb.mysellauth.com/)
+<a href="https://kirosb.mysellauth.com/" style="text-decoration: none;"><span style="background-color: grey; border-radius: 10px; padding: 5px 10px; color: white; display: inline-block;">Buy Now</span></a>
 
 ---
 
 ## ✨ About Kiro
 
-**Kiro £lfbot** is the **first Discord bot in France** — designed to take your server to the next level.
+**Kiro £lfbot** is the **first Discord £lfbot in France** - Designed to give you a better experience
 
 ---
 
