@@ -1,0 +1,40 @@
+name: Contributions Snake
+
+on:
+  schedule:
+    # run every day at midnight UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    name: Generate contribution snake SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake image
+        uses: aki77/github-contribution-grid-snake@v1
+        with:
+          output-file: ./output/github-contribution-grid-snake.svg
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # optionally set other options such as include-stars or include-private
+
+      - name: Generate dark mode snake image
+        uses: aki77/github-contribution-grid-snake@v1
+        with:
+          output-file: ./output/github-contribution-grid-snake-dark.svg
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg
+          git commit -m "chore: update contribution snake" || echo "no changes"
+          git push
