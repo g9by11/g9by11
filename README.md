@@ -34,3 +34,7 @@
 
 ![github contribution grid snake animation](https://github.com/g9by11/g9by11/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://github.com/g9by11/g9by11/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+[guns.lol](https://guns.lol/1nsoumis)
