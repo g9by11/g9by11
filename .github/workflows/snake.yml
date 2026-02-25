@@ -5,15 +5,15 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-  
+    # daily at midnight UTC
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
-  
+
   push:
     branches:
-    - master
-    
-  
+      - main
+
 
 jobs:
   generate:
