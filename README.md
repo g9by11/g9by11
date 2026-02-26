@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/Y2bv736W/41580111cc4f9cbe669031ae689506ea.gif" alt="Banner" width="600" />
 
-  # ⚡ Gab
+  # ⚡ Light
 
   <p align="center">
     <a href="https://discord.gg/kirosb"><img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
