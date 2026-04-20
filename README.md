@@ -12,6 +12,8 @@
   ---
 
   ### 🪐 Status
+
+  **Hi, my name is Enzo, I'm learning code to become a developer**
   
   **🇫🇷 Just a guy learning** <img src="https://i.postimg.cc/G3JCYp0N/image.png" alt="Javascript" width="16" /> **Javascript**
   
