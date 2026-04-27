@@ -36,6 +36,12 @@
 
   ---
 
+  ## ✨ Quote
+
+> "The sky is not the limit — it's just the beginning." ☁️
+
+---
+
   ## 📈 Contributions
 
   ![Snake animation](https://github.com/g9by11/g9by11/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
